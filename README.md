@@ -147,5 +147,3 @@ docker run -d --name=microsoft-admin \
 请自行设置 .evn  {host} 和 {port}
 
 ![image](https://github.com/6mb/Microsoft-365-Admin/blob/master/.github/接口.png)
-
-
